@@ -1,0 +1,37 @@
+[04-Feb-2024 05:37:46 UTC] PHP Deprecated:  Optional parameter $slug declared before required parameter $request is implicitly treated as a required parameter in /home/blessi14/public_html/engine/app/Http/Controllers/Frontend.php on line 288
+[04-Feb-2024 05:37:46 UTC] PHP Deprecated:  Optional parameter $slug declared before required parameter $request is implicitly treated as a required parameter in /home/blessi14/public_html/engine/app/Http/Controllers/Frontend.php on line 304
+[04-Feb-2024 05:42:30 UTC] PHP Deprecated:  Optional parameter $slug declared before required parameter $request is implicitly treated as a required parameter in /home/blessi14/public_html/engine/app/Http/Controllers/Frontend.php on line 288
+[04-Feb-2024 05:42:30 UTC] PHP Deprecated:  Optional parameter $slug declared before required parameter $request is implicitly treated as a required parameter in /home/blessi14/public_html/engine/app/Http/Controllers/Frontend.php on line 304
+[04-Feb-2024 05:43:50 UTC] PHP Deprecated:  Optional parameter $slug declared before required parameter $request is implicitly treated as a required parameter in /home/blessi14/public_html/engine/app/Http/Controllers/Frontend.php on line 288
+[04-Feb-2024 05:43:50 UTC] PHP Deprecated:  Optional parameter $slug declared before required parameter $request is implicitly treated as a required parameter in /home/blessi14/public_html/engine/app/Http/Controllers/Frontend.php on line 304
+[04-Feb-2024 05:44:51 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34. in /home/blessi14/public_html/engine/vendor/composer/platform_check.php on line 24
+[04-Feb-2024 06:14:29 UTC] PHP Notice:  Undefined index: sub in /home/blessi14/public_html/signup.php on line 9
+[04-Feb-2024 06:14:29 UTC] PHP Notice:  Undefined index: sub in /home/blessi14/public_html/signup.php on line 10
+[04-Feb-2024 06:16:48 UTC] PHP Notice:  Undefined index: sub in /home/blessi14/public_html/signup.php on line 9
+[04-Feb-2024 06:16:48 UTC] PHP Notice:  Undefined index: sub in /home/blessi14/public_html/signup.php on line 10
+[04-Feb-2024 06:17:15 UTC] PHP Notice:  Undefined index: sub in /home/blessi14/public_html/signup.php on line 9
+[04-Feb-2024 06:17:15 UTC] PHP Notice:  Undefined index: sub in /home/blessi14/public_html/signup.php on line 10
+[04-Feb-2024 06:17:25 UTC] PHP Notice:  Undefined index: sub in /home/blessi14/public_html/signup.php on line 9
+[04-Feb-2024 06:17:25 UTC] PHP Notice:  Undefined index: sub in /home/blessi14/public_html/signup.php on line 10
+[04-Feb-2024 06:20:09 UTC] PHP Notice:  Undefined index: sub in /home/blessi14/public_html/signup.php on line 9
+[04-Feb-2024 06:20:09 UTC] PHP Notice:  Undefined index: sub in /home/blessi14/public_html/signup.php on line 10
+[04-Feb-2024 06:21:43 UTC] PHP Notice:  Undefined index: sub in /home/blessi14/public_html/signup.php on line 9
+[04-Feb-2024 06:21:43 UTC] PHP Notice:  Undefined index: sub in /home/blessi14/public_html/signup.php on line 10
+[04-Feb-2024 06:22:01 UTC] PHP Notice:  Undefined index: sub in /home/blessi14/public_html/signup.php on line 9
+[04-Feb-2024 06:22:01 UTC] PHP Notice:  Undefined index: sub in /home/blessi14/public_html/signup.php on line 10
+[04-Feb-2024 06:25:22 UTC] PHP Notice:  Undefined index: sub in /home/blessi14/public_html/signup.php on line 9
+[04-Feb-2024 06:25:22 UTC] PHP Notice:  Undefined index: sub in /home/blessi14/public_html/signup.php on line 10
+[04-Feb-2024 06:26:36 UTC] PHP Notice:  Undefined index: sub in /home/blessi14/public_html/signup.php on line 9
+[04-Feb-2024 06:26:36 UTC] PHP Notice:  Undefined index: sub in /home/blessi14/public_html/signup.php on line 10
+[04-Feb-2024 06:27:02 UTC] PHP Notice:  Undefined index: sub in /home/blessi14/public_html/signup.php on line 9
+[04-Feb-2024 06:27:02 UTC] PHP Notice:  Undefined index: sub in /home/blessi14/public_html/signup.php on line 10
+[04-Feb-2024 06:28:46 UTC] PHP Notice:  Undefined index: sub in /home/blessi14/public_html/signup.php on line 9
+[04-Feb-2024 06:28:46 UTC] PHP Notice:  Undefined index: sub in /home/blessi14/public_html/signup.php on line 10
+[04-Feb-2024 06:29:23 UTC] PHP Notice:  Undefined index: sub in /home/blessi14/public_html/signup.php on line 9
+[04-Feb-2024 06:29:23 UTC] PHP Notice:  Undefined index: sub in /home/blessi14/public_html/signup.php on line 10
+[04-Feb-2024 06:30:06 UTC] PHP Notice:  Undefined index: sub in /home/blessi14/public_html/signup.php on line 9
+[04-Feb-2024 06:30:06 UTC] PHP Notice:  Undefined index: sub in /home/blessi14/public_html/signup.php on line 10
+[04-Feb-2024 06:30:28 UTC] PHP Notice:  Undefined index: sub in /home/blessi14/public_html/signup.php on line 9
+[04-Feb-2024 06:30:28 UTC] PHP Notice:  Undefined index: sub in /home/blessi14/public_html/signup.php on line 10
+[04-Feb-2024 06:37:27 UTC] PHP Notice:  Undefined index: sub in /home/blessi14/public_html/signup.php on line 9
+[04-Feb-2024 06:37:27 UTC] PHP Notice:  Undefined index: sub in /home/blessi14/public_html/signup.php on line 10
